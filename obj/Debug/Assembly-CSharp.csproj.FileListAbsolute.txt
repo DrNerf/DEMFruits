@@ -1,0 +1,11 @@
+F:\Projects\DEMFruits\Temp\bin\Debug\Assembly-CSharp.dll
+F:\Projects\DEMFruits\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\Projects\DEMFruits\Temp\bin\Debug\UnityEditor.dll
+F:\Projects\DEMFruits\Temp\bin\Debug\UnityEngine.dll
+F:\Projects\DEMFruits\Temp\bin\Debug\Mono.Cecil.dll
+F:\Projects\DEMFruits\Temp\bin\Debug\nunit.framework.dll
+F:\Projects\DEMFruits\Temp\bin\Debug\Unity.DataContract.dll
+F:\Projects\DEMFruits\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+F:\Projects\DEMFruits\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+F:\Projects\DEMFruits\obj\Debug\Assembly-CSharp.dll
+F:\Projects\DEMFruits\obj\Debug\Assembly-CSharp.pdb
